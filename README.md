@@ -1,7 +1,6 @@
-### Hi there 👋
 
 
-<img align="center" title="My Top Languages this Week" alt="My Top Languages this Week" src="https://github.com/Escaper2/Escaper2/blob/master/images/wakatime_weekly_language_stats.svg" /></a>
+<img src="https://github.com/Escaper2/Escaper2/blob/master/images/wakatime_weekly_language_stats.svg" /><
 
 <!--
 **Escaper2/Escaper2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
