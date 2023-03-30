@@ -2,6 +2,10 @@
 
 <img src="https://github.com/Escaper2/Escaper2/blob/master/images/wakatime_weekly_language_stats.svg" />
 
+📊 Github Stats:
+
+<img src="https://profile-counter.glitch.me/eskaper2/count.svg" alt="hit counter" align="center">
+
 <!--
 **Escaper2/Escaper2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
