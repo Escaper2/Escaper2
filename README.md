@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/Escaper2/Escaper2/blob/master/images/wakatime_weekly_language_stats.svg" />
+
 
 📊 Profile views-counter:
 
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://github.com/Escaper2/Escaper2/blob/master/images/wakatime_weekly_language_stats.svg" />
 -->
